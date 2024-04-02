@@ -1,0 +1,7 @@
+||api.miwifi.com
+||www.163.com
+||www.sohu.com
+||www.qq.com
+||www.meituan.com
+||www.taobao.com
+||www.baidu.com
